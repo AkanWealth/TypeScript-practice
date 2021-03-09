@@ -1,0 +1,21 @@
+var myString;
+var myNumber;
+var myBool;
+var myVal;
+/* let strArray: string[];
+let numArray: number[];
+let boolArray: boolean[]; */
+var strArray;
+var numArray;
+var boolArray;
+var strNumTuple;
+myString = 'hello'.slice(0, 3);
+myNumber = 1;
+myBool = true;
+myVal = 'working';
+strArray = ["hello Array"];
+numArray = [1, 2, 3, 4, 5];
+boolArray = [true, false, true];
+strNumTuple = ["hello", 4];
+var myVoid = null;
+console.log(myVoid);
